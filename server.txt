@@ -1,0 +1,7 @@
+connect 51.77.68.104:28746; password witchers123
+nikitela123
+m0nesy.pro
+connect mance.dathost.net:28746; password witchers123
+connect 82.149.235.158:27015; password pew
+tyrlon.dathost.net:9960
+
